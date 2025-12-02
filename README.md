@@ -1,5 +1,3 @@
-# NOTES.md
-
 ## Summary of Main Bugs/Issues Found
 
 ### 1. **Unused Imports and Variables**
